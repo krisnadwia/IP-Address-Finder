@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IP Address Finder</string>
+    <string name="str_et_url">Enter URL: </string>
+    <string name="str_btn_find_ip">Find IP</string>
+    <string name="str_error_msg">Error Occurred! Please check your URL!</string>
+    <string name="str_url_null">Enter URL first!</string>
+    <string name="str_tv_host">Host URL: </string>
+</resources>
