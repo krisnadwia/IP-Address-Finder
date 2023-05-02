@@ -1,7 +1,7 @@
 # IP-Address-Finder
 Android App to find IP Address from an URL
 
-Download this app: https://cloud.degoo.com/share/yhJ_Ym8r9e9rkLKuGkDIjA
+Download this app: https://drive.google.com/drive/folders/1M359sOib8VNAmAolvj7mIXc3BosQUTJE?usp=share_link
 
 ## Demo
 <img src="assets/Demo.gif"
